@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963624190704",
+    "project_id": "library-app-58cb8",
+    "storage_bucket": "library-app-58cb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963624190704:android:11166f50ad1990dd72f835",
+        "android_client_info": {
+          "package_name": "com.masdar.library_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC3CKfyfI-g4VVn-deXWQJ9QetoKVKxHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
